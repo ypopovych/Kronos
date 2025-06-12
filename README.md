@@ -57,7 +57,7 @@ pod 'Kronos'
 
 ### Swift Package Manager
 
-Add Kronos to your `Pacakge.swift`:
+Add Kronos to your `Package.swift`:
 
 ```bash
 .package(name: "Kronos", url: "https://github.com/MobileNativeFoundation/Kronos.git", .upToNextMajor(from: "TAG")),
